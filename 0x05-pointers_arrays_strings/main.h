@@ -17,3 +17,7 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 
 #endif
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0247980164c6bf9f7478dbea0c4c110910aec3c5
